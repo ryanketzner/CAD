@@ -1,0 +1,7 @@
+There are 2 folders here that contain the primary component files, the nominal files are exactly the same as the aluminum parts.  When I printed the parts on my inexpensive Davinci printer I had trouble with shrink and bearing fit - I spent a great deal of time test printing and modifying many of the components to account for shrink.  The resized components work well for many people and others with higher quality printers report the nominal files work better.  I have provided both sets of files here - if the resized parts have size issues for you please use the nominal files.
+
+The Remixed for large print bed folder contains 4 parts courtesy of Gary Heathman - these parts are ideal for people who have larger size printers and wish to print a couple of the larger assemblies in a single piece.
+
+thank you for your support on this project
+
+chris.annin@gmail.com
